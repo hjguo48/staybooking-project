@@ -27,5 +27,5 @@ staybooking:
   gcs:
     bucket: staybooking0408
   geocoding:
-    key: AIza1234567890abcdefg
+    key: AIzaSyC-yopxWQMPChQmjBFzabLCCFkIdAx9n9s
 
