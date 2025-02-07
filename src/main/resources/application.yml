@@ -28,4 +28,5 @@ staybooking:
     bucket: staybooking0408
   geocoding:
     key: AIzaSyC-yopxWQMPChQmjBFzabLCCFkIdAx9n9s
-
+  jwt:
+    secret-key: hYW3L6I3gPpEUbtU+17FEHRYJuc8uLYHaLLsuzzyKn4=
